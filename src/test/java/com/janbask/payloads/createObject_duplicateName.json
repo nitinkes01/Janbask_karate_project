@@ -1,0 +1,14 @@
+{
+    "name": "object 100",
+    "plural_label":"Employees",
+    "first_field_data": {
+        "name": "Employee Name",
+        "description":"Employee Name",
+        "tooltip_text":"Employee Name",
+        "field_history_enabled":true
+    },
+    "description": "Employee Object"
+}
+
+
+

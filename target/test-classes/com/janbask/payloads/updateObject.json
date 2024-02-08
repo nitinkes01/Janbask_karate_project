@@ -1,0 +1,14 @@
+{
+    "name": "updated Object",
+    "description": "",
+    "plural_label": "Object 11s",
+    "comment_enabled": false,
+    "_id": "",
+    "web_form": false,
+    "global_search_view": [
+        {
+            "field_id": "",
+            "field_name": "field 1"
+        }
+    ]
+}
