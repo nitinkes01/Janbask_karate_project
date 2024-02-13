@@ -1,0 +1,9 @@
+{
+    "name": "Test App 4",
+    "description": "Test",
+    "objects": [{
+        "object_id": "",
+        "object_name": "Courses",
+         "plural_label": "Colleges"
+    }]
+}

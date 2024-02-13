@@ -1,0 +1,12 @@
+{
+    "name": "#(RandomName)",
+    "description": "application Information",
+    "objects": [
+        {
+            "sequence": 0,
+            "object_id": "",
+            "object_name": "College",
+            "plural_label": "Colleges"
+        }
+    ]
+}
